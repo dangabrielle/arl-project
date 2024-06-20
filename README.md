@@ -1,2 +1,1 @@
-Currently working on app ideas for a fullstack Nextjs application (need to discuss with Baseem)
-Reviewing React and learning Next.js
+6/20: Currently working on app ideas for a fullstack Nextjs application (need to discuss with Baseem). Reviewing React and learning Next.js -- working on a sample dashboard app tutorial https://github.com/dangabrielle/dashboard-app-nextjs
